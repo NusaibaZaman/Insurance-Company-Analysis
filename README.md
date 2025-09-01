@@ -62,7 +62,7 @@ The heatmap shows how each usage type has changed over the years.
 
 ---
 
-## 💼 Why This Matters ?
+## Why This Matters ?
 
 For an insurance company, balancing premiums against claims is important. This dashboard helps decision makers by:
 - Identifying **where risks are highest**  
